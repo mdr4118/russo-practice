@@ -1,25 +1,28 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# This is a Header
+## This is a Smaller Header
+### This is an Even Smaller Header
+Here is some normal text. A paragraph, even!
+_This text is in italics._
+**This text is in bold.**
+**_This text is in both._**
+~~This text is rendered with strikethrough.~~
+-Item
+-Item
+-Another item
+ 1. Item one
+ 2. Item two
+ 3. Item three
 
-## Overview
+ 1. Item one
+ 2. Item two
+ 3. Item three
+  1. Sub-item
+  2. Sub-item
+ 4. Item 4
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+ ---
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+ [www.phish.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fminkinphotography.com%2Fbob-minkin-photography-store%2Ftrey-anastasio-greek-theatre-berkeley-ca-92305-signed-limited-edition-giclee-photograph%2F&psig=AOvVaw1wf6buJTWVmLbKT2Z-vXLx&ust=1580954783454000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD7_tSpuecCFQAAAAAdAAAAABAI)
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+![alt text](./Trey-Anastasio_2009.jpg)
 
-## Get Started
-
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-97de62a546f943fbbc7a246b4785a343)
-
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
-
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to get all of the goodies. If you see any _errors_ (warnings are 🙆🏾‍♂️) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
-
-Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
-
-**Note:** This is a template repository, no need to 'fork it.
