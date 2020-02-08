@@ -112,3 +112,43 @@ let name = "mike";
 
     // use "console.log()" and "+" to print a sentence that includes two variables
 console.log("blue"+"age");stst
+
+
+// 'const' is not about immutability (ability to change ) - its about no reSSIGNMENT.
+const me = {};
+
+// I cannot reassign me
+me = "23";
+
+I can reassign the value of key inside of 'me'
+me.name = "Mike";
+
+const someone = {
+  name: "dave",
+  age: 22,
+  pets: {
+      cat: "Dora",
+      dog: "Fido"
+  }
+};
+
+console.log(someone.pets.cat);
+
+someone.name = "bill";
+someone.occupation = "dev";
+console.log(someone);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
